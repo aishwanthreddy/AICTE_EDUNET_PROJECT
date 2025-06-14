@@ -23,4 +23,4 @@ Streamlit / React for frontend dashboard (optional)
   Results
 Accuracy: Achieved >90% precision in detecting helmetless riding and wrong-way driving.
 Latency: Real-time processing with average latency <300ms per frame.
-Scalability: Successfully tested on multi-camera live streams with consistent performance.# AICTE_EDUNET_PROJECT
+Scalability: Successfully tested on multi-camera live streams with consistent performance.
